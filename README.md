@@ -1,6 +1,10 @@
 # Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
 # Project Statement:
-This project focuses on developing an interactive, data-driven dashboard that provides cybersecurity analysts with immediate, visual understanding of the threat landscape. By aggregating and visualizing simulated security incident data (e.g., from CVE feeds or attack logs), the solution will clarify attack patterns, track temporal trends, and identify geographical and systemic hotspots. This enhancement will enable more proactive risk mitigation, efficient resource allocation, and improved security posture by highlighting the most vulnerable areas.
+This project focuses on developing an interactive, data-driven dashboard that provides cybersecurity analysts with
+
+https://github.com/user-attachments/assets/5ba76cba-4d9c-46cd-bfaf-90c9b2cd03b9
+
+ immediate, visual understanding of the threat landscape. By aggregating and visualizing simulated security incident data (e.g., from CVE feeds or attack logs), the solution will clarify attack patterns, track temporal trends, and identify geographical and systemic hotspots. This enhancement will enable more proactive risk mitigation, efficient resource allocation, and improved security posture by highlighting the most vulnerable areas.
 
 # Outcomes:
 ● Geospatial Risk Mapping: Instantly locate and visualize the geographical origins and targets of cyber incidents on a global map.
