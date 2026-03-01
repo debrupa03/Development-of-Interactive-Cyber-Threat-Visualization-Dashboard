@@ -14,7 +14,7 @@ This project focuses on developing an interactive, data-driven dashboard that pr
 
 ● Enhanced Reporting: Produce data-driven, executive-ready reports on the current organizational risk profile.
 
-# Modules to be Implemented:
+# Modules Implemented:
 ● Module 1: Data Acquisition and Structuring: Collect and clean raw security incident data. Normalize fields to enable consistent analysis and mapping to MITRE ATT&CK categories.
 
 ● Module 2: Core Visualization Development: Develop all time-series and categorical charts that quantify attack frequency, severity, and type distribution.
